@@ -1,22 +1,7 @@
-altgraph==0.10.2
-appnope==0.1.0
-backports.shutil-get-terminal-size==1.0.0
-bdist-mpkg==0.5.0
-Click==7.0
-decorator==4.3.0
-enum34==1.1.6
 Flask==1.0.2
 Flask-MySQLdb==0.2.0
 Flask-SQLAlchemy==2.3.2
 ipython==5.8.0
 ipython-genutils==0.2.0
-itsdangerous==1.1.0
-scandir==1.9.0
-scipy==0.13.0b1
-simplegeneric==0.8.1
-six==1.4.1
 SQLAlchemy==1.2.14
-traitlets==4.3.2
-wcwidth==0.1.7
-Werkzeug==0.14.1
 
