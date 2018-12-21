@@ -5,4 +5,5 @@ ipython==5.8.0
 ipython-genutils==0.2.0
 SQLAlchemy==1.2.14
 gunicorn==19.7.1
+psycopg2==2.7.3
 
