@@ -85,7 +85,7 @@ def fetchdata():
     data = CONT.searchdata(email) 
     if data:
         response = jsonify({"status": "success", "result":data})
-        response.status_code = 404
+        response.status_code = 200
         return response
     else:
         response = jsonify({"status": "failure", "message": "not found"})
